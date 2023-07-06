@@ -32,5 +32,10 @@ module.exports = {
       },
     },
   },
+  variants: {
+    extend: {
+      padding: ["lg"],
+    },
+  },
   plugins: [],
 };
