@@ -1,7 +1,9 @@
 const Home = () => {
   return (
-    <div>
-      <h1 className="flex-start paddings">Home</h1>
+    <div className="paddings">
+      <h1 className="flex-start">Categories</h1>
+      <h1 className="flex-start">Posts</h1>
+      <h1 className="flex-start">LoadMore</h1>
     </div>
   );
 };
